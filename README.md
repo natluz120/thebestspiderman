@@ -14,15 +14,7 @@ Projeto desenvolvido durante o curso de Analista de Dados da EBAC com um objetiv
 Acesse o dashboard completo aqui:  
 👉 [Link para o Looker Studio](https://lookerstudio.google.com/reporting/f5bea7bd-9637-4c4d-a781-798578ae05a6)
 
-## 📁 Estrutura
-
-- `data/`: Datasets usados na análise
-- `notebooks/`: Códigos em Python
-- `dashboards/`: PDFs dos dashboards
-- `README.md`: Esse lindo arquivo
-
 ## 🐍 Tecnologias usadas
-
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Looker Studio
 - Google Sheets (para visualização prévia)
